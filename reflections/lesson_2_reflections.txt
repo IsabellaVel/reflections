@@ -1,0 +1,7 @@
+Reflections from Lesson 2
+
+1. What happens when you initialize a repository? 
+Why do you need to do it?
+This way we create a new repository with its 
+metadata in .files. This is necessary in order to 
+track the commits and udpates to the tracked files.

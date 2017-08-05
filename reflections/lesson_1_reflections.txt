@@ -1,0 +1,48 @@
+Reflections from Lesson 1
+
+1. Viewing the comparison between 2 files was quite easier
+with version control since only the differences are shown
+without the need to manually check all data in both files.
+
+2. How could having easy access to the entire history of 
+a file make you a more efficient programmer in the long term?
+
+Because it highlights all variances and helps identify 
+bugs easily and efficiently, allowing for focus on more 
+important tasks.
+
+3. What do you think are the pros and cons of manually choosing 
+when to create a commit, like you do in Git, vs having 
+versions automatically saved, like Google Docs does?
+
+Pros of manual creation of Git - one can choose only 
+is deemed necessary in order to reduce storage costs.
+Having versions automatically saved increases the 
+availability of historical versions.Increases storage.
+
+4. Why do you think some version control systems, like 
+Git, allow saving multiple files in one commit, 
+while others, like Google Docs, treat each file separately?
+
+Perhaps in order to facilitate complex analysis that 
+includes comparing and controlling data in its entirety.
+
+5.How can you use the commands git log and git diff to 
+view the history of files?
+
+This allows highlighting the differences between 2 files 
+and showing all the history of changes.
+
+6.How might using version control make you more 
+confident to make changes that could break something?
+
+Version control will allow finding the correct prior 
+version and restoring it.
+
+7. Now that you have your workspace set up, what 
+do you want to try using Git for?
+
+To facilitate managing my projects and better / 
+quicker application development.
+
+25ede836903881848fea811df5b687b59d962da3
