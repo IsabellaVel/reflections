@@ -9,4 +9,4 @@ Definitely a great way to learn about version control.
 
 Here`s the link to the course.
 
-**Someone is interfering here.**
+**Someone is interfering here. Some Russian trash is stealing my reflections.**
