@@ -9,6 +9,4 @@ Definitely a great way to learn about version control.
 
 Here`s the link to the course.
 
-**Someone is interfering here. Probably some Russian trash.**
-
-https://eu.udacity.com/course/how-to-use-git-and-github--ud775
+**Someone is interfering here.**
